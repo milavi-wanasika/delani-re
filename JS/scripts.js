@@ -45,7 +45,7 @@ $(document).ready(function() {
     $(".image5").hover(function() {    
        $(".overlay5").show();
        $(".image5").mouseleave(function() {
-         $(".overlay5").hide();
+         $(".overlay5").hide()
        });
     });
     $(".image6").hover(function() {
