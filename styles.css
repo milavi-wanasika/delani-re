@@ -1,0 +1,129 @@
+.container{
+    background-image: url();
+    background-size: cover;
+    width: auto;
+    height: 500px;
+    text-align: center;
+}
+.first-section{
+    background-image: url(../images/backgrounds/h_img.jpg);
+}
+.second-section{
+    background-color: transparent;
+    text-align: center;
+    height: auto;
+    width: 20;
+    font-style: normal;
+    font-size: medium;
+  }
+  .third-section{
+    background-image: url(../images/backgrounds/s_image.jpg);
+    background-size: cover;
+    width: auto;
+    height: auto;
+    text-align: center;
+  }
+  p {
+    text-align: center;
+   }
+   
+   h4 {
+    font-weight: bold;
+    padding-top: 5%;
+   }
+   
+   h5 {
+    font-weight: bold;
+    text-align: center;
+    padding: 3%;
+    font-size: 25px;
+   }
+   
+   .WhatWeDo {
+    text-align: center;
+   }
+   
+   .h6 {
+    font-weight: bold;
+    text-align: center;
+    font-size: 25px;
+    padding-top: 5%;
+   }
+   
+   .portfolio {
+    text-align: center;
+   }
+   
+   img {
+    padding: 0.5%;
+   }
+   
+   .contact {
+    padding-top: 3%;
+    background-image: url(../images/backgrounds/c_image.jpg);
+    height: 70vh;
+    width: 1200px;
+    text-align: center;
+   }
+   
+   .h8 {
+    color: white;
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    padding-bottom: 2%;
+   }
+   
+   form {
+    text-align: center;
+   }
+   
+   .social-icons {
+    text-align: center;
+    font-size: 15px;
+    padding: 0.2%;
+   }
+   
+   .exit {
+    text-align: center;
+    font-size: x-small;
+   }
+   
+   input {
+    width: 35%;
+    border: 1px solid white;
+    opacity: 0.5;
+   }
+   
+   textarea {
+    margin-top: 20px;
+    width: 65%;
+    height: 150px;
+    opacity: 0.5;
+    border: 1px solid white;
+   }
+   .h9 {
+       font-weight: bold;
+       padding-bottom: 2%;
+   }
+   .h10 {
+       font-weight: bold;
+       padding-bottom: 2%;
+   }
+   
+   .h11 {
+       font-weight: bold;
+       padding-bottom: 2%;
+   }
+   
+   #hide1 {
+       display: none;
+   }
+   
+   #hide2 {
+       display: none;
+   }
+   
+   #hide3 {
+       display: none;
+   }
